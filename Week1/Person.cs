@@ -5,9 +5,9 @@
 
 
         #region Private Fields
-        private int pcn;
-        private int age;
-        private int yearsAtFontys;
+        private int _pcn;
+        private int _age;
+        private int _yearsAtFontys;
         #endregion
 
         #region Properties
